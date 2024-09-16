@@ -1,6 +1,6 @@
 package main
 
-import "hexa.gen/generator/cmd"
+import "github.com/RendiSaputraStimata/hexa-gen/generator/cmd"
 
 func main() {
 	cmd.Execute()
